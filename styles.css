@@ -1,0 +1,42 @@
+h1 {
+    font-family:'Sacramento', cursive;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    }
+ h2 {
+     font-family: 'Homemade Apple', cursive;
+     background-color:black ;
+     color: white;
+}
+p {font-family: 'Schoolbell', cursive;white-space: nowrap; 
+    width: 200px; 
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    color: white;}
+    
+     
+.thebestartist{ 
+                width:350px;
+ }
+ img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+               
+                
+     }
+.thebestmovie { 
+               width: 500px;
+}
+.thebestgame {  
+               width: 550px;
+}
+.dog { 
+    width: 500px;
+}
+body{ 
+     background-image: url("https://images5.alphacoders.com/528/thumb-1920-528375.jpg");
+     text-align:center;
+}
